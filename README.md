@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @TomLogicCFR
-- 👀 I’m interested in unlocking the potential of data, automating workflows, and building efficient, secure systems.- 🌱 I’m currently learning ...
+- 👀 I’m interested in unlocking the potential of data, automating workflows, and building efficient, secure systems.
+- 🌱 I’m currently learning advanced machine learning techniques and diving deeper into blockchain development.
 - 💞️ I’m looking to collaborate on innovative projects that push the boundaries of tech, particularly in AI and cybersecurity.
 - 📫 How to reach me  tom@cryptofaxreport.com
 - ⚡ Fun fact: I’m a tech enthusiast who’s equally passionate about brewing the perfect cup of coffee and cracking complex algorithms.
